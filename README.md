@@ -11,14 +11,25 @@
 
 ### Papers
 
-- [ ] [DDMP]()
+- [ ] [DDMP](https://arxiv.org/abs/2006.11239)
 
-- [ ] [Stable Diffusion]()
+- [ ] [Stable Diffusion](https://arxiv.org/abs/2112.10752)
 
-## Bioinformatics
+- [ ] [ANALYTIC-DPM-ICLR22-oral-Fan Bao et al. PKU](https://openreview.net/forum?id=0xiJLKH-ufZ)
+
+### 3D motion synthesis
+- [ ] [PhysGaussian Tianyi Xie et al. CVPR]
+
+## Ai4Science
 
 ### Drug discovery
 
-### Video
+- [ ] [GeoLDM-ICML2023-Minkai Xu et al. Stanford](https://arxiv.org/abs/2305.01140)
+
+### Molecular Conformation Generation
+
+- [ ] [GEODIFF-ICLR22-oral Xu et al. Stanford](https://openreview.net/forum?id=PzcvxEMzvQC)
+
+## Video
 
 [SVD-github-repository](https://github.com/Stability-AI/generative-models)
