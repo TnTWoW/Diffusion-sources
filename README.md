@@ -14,3 +14,7 @@
 ## Bioinformatics
 
 ### Drug discovery
+
+### Video
+
+[SVD-github-repository](https://github.com/Stability-AI/generative-models)
