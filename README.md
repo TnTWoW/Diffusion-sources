@@ -18,7 +18,7 @@
 - [ ] [ANALYTIC-DPM-ICLR22-oral-Fan Bao et al. PKU](https://openreview.net/forum?id=0xiJLKH-ufZ)
 
 ### 3D motion synthesis
-- [ ] [PhysGaussian Tianyi Xie et al. CVPR]
+- [ ] [PhysGaussian Tianyi Xie et al. CVPR](https://arxiv.org/abs/2311.12198)
 
 ## Ai4Science
 
