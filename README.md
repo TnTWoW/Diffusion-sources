@@ -1,4 +1,4 @@
-# diffusion resource
+# diffusion source
 
 ## Images
 
