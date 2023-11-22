@@ -3,7 +3,7 @@
 ## Images
 
 ### Blogs
-[Huggingface and implementation](https://huggingface.co/blog/annotated-diffusion)
+[Tutorial and implementation(HF)](https://huggingface.co/blog/annotated-diffusion)
 
 [Proof](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
