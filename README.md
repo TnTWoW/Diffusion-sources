@@ -16,6 +16,7 @@
 - [ ] [Stable Diffusion](https://arxiv.org/abs/2112.10752)
 
 - [ ] [ANALYTIC-DPM-ICLR22-oral-Fan Bao et al. PKU](https://openreview.net/forum?id=0xiJLKH-ufZ)
+- [x] [ImageReward-Neurips-Jiazheng Xu et al. PKU](https://arxiv.org/abs/2304.05977)
 
 ### 3D motion synthesis
 - [ ] [PhysGaussian Tianyi Xie et al. CVPR](https://arxiv.org/abs/2311.12198)
