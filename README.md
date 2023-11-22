@@ -11,6 +11,9 @@
 
 ### Papers
 
+[DDMP]()
+[Stable Diffusion]()
+
 ## Bioinformatics
 
 ### Drug discovery
