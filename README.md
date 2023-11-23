@@ -37,5 +37,6 @@
 
 ## User Modeling
 
-[DreamRec-NeurIPS23 Zhengyi Yang et al. USTC](https://arxiv.org/abs/2310.20453)
-[DiffRec-Sigir23 Wenjie Wang et al. USTC](https://arxiv.org/abs/2304.04971)
+- [ ] [DreamRec-NeurIPS23 Zhengyi Yang et al. USTC](https://arxiv.org/abs/2310.20453)
+      
+- [ ] [DiffRec-Sigir23 Wenjie Wang et al. USTC](https://arxiv.org/abs/2304.04971)
