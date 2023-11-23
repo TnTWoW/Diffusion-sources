@@ -1,7 +1,5 @@
 # diffusion source
 
-@[TOC](Outlines)
-
 ## Images
 
 ### Blogs
